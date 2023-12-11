@@ -1,0 +1,6 @@
+# ninja log v5
+0	352	7240028515290627	CMakeFiles/IntroProgFinalProj.dir/main.cpp.obj	aeefa97db48b6404
+3	469	7240028516464642	CMakeFiles/IntroProgFinalProj.dir/enemyfunctions.cpp.obj	7691a11c7ac2111e
+5	444	7240028732581029	CMakeFiles/IntroProgFinalProj.dir/gamefunctions.cpp.obj	129e597cad7b9e5b
+2	781	7240028961825860	CMakeFiles/IntroProgFinalProj.dir/playerfunctions.cpp.obj	62f2438b973e2d49
+781	908	7240028963070386	IntroProgFinalProj.exe	23192baa2bbd0182

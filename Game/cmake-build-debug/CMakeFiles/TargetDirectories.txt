@@ -1,3 +1,0 @@
-C:/Users/elijah.newcome/Desktop/FinalProject/IntroProgFinalProj/Game/cmake-build-debug/CMakeFiles/untitled6.dir
-C:/Users/elijah.newcome/Desktop/FinalProject/IntroProgFinalProj/Game/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/elijah.newcome/Desktop/FinalProject/IntroProgFinalProj/Game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
